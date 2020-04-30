@@ -1,0 +1,20 @@
+{
+	"name": "crontis/trello-php-api",
+	"description": "Trello API Wrapper for PHP",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "crontis",
+			"email": "dev@crontis.net"
+		}
+	],
+	"require": {
+		"guzzlehttp/guzzle": "^6.5"
+	},
+	"autoload": {
+		"psr-4": {
+			"TrelloPhpApi\\": "src/"
+		}
+	}
+}
