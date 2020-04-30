@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace TrelloPhpApi\Requests\Boards;
+namespace TrelloPhp\Requests\Boards;
 
 use GuzzleHttp\Psr7\Request;
 

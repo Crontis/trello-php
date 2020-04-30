@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace TrelloPhpApi;
+namespace TrelloPhp;
 
 use Psr\Http\Message\RequestInterface;
 

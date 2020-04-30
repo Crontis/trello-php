@@ -1,5 +1,5 @@
 {
-	"name": "crontis/trello-php-api",
+	"name": "crontis/trello-php",
 	"description": "Trello API Wrapper for PHP",
 	"type": "library",
 	"license": "MIT",
@@ -14,7 +14,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"TrelloPhpApi\\": "src/"
+			"TrelloPhp\\": "src/"
 		}
 	}
 }

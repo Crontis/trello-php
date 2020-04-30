@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace TrelloPhpApi\Requests\Lists;
+namespace TrelloPhp\Requests\Lists;
 
 use GuzzleHttp\Psr7\Request;
 
